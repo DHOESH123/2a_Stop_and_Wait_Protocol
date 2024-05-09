@@ -1,4 +1,4 @@
-# 2a_Stop_and_Wait_Protocol
+# EX NO :2a_Stop_and_Wait_Protocol
 ## NAME : ESHWAR T
 ## REGISTER NUMBER : 212223230054
 ## AIM 
